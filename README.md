@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, I'm Bárbara Nassar 👋
 
 Originally from São Paulo, Brazil, I moved to Berlin and just completed a full stack web development course at Le Wagon. 
 
