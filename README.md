@@ -11,4 +11,4 @@ I am combining my work experience as project manager and content strategist with
 
 ## How to reach me
 * Send me a message on [LinkedIn](https://www.linkedin.com/in/barbaranassar/)
-* Check my [portifolio](troopl.com/babsnassar)
+* Check my [portifolio](https:/troopl.com/babsnassar)
