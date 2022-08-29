@@ -16,23 +16,17 @@ I am combining my work experience as project manager and content strategist with
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white"/>
-  
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-  
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-    
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-   
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
- 
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/>
-
 </div>
 
 ## How to reach me
 * Send me a message on [LinkedIn](https://www.linkedin.com/in/barbaranassar/)
 * Check my [portifolio](https://troopl.com/babsnassar)
+
+https://github-readme-stats.vercel.app/api?username=babsnassar&&show_icons=true
