@@ -30,3 +30,5 @@ I am combining my work experience as project manager and content strategist with
 * Check my [portifolio](https://troopl.com/babsnassar)
 
 https://github-readme-stats.vercel.app/api?username=babsnassar&&show_icons=true
+
+<img src="https://github-readme-stats.vercel.app/api?username=babsnassar&&show_icons=true " />
