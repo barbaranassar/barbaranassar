@@ -1,9 +1,9 @@
 # Hi there, I'm Bárbara Nassar 👋
 
-Crazy cat lady, pokemon trainer, passioned about japanese culture and a developer in the spare time.
-Originally from São Paulo, Brazil, I moved to Berlin and just completed a full stack web development course at Le Wagon. 
+Crazy cat lady, pokemon trainer, travel addict, japanese culture lover and a developer in the spare time. 
+Originally from São Paulo, Brazil, I'm a Frontend Software Engineer experience in scalable architecture, robust testing practices and motivating others women to also work in tech.
 
-I am combining my work experience as project manager and content strategist with technology to direct my career towards frontend developer. 
+Combining my experience as a project manager and content strategist with a strong technical background, I bring expertise in scalable architecture, robust testing practices, and collaborative project leadership.
 
 > **Personal project:** In 2018 I created a website where I teach, help and encourage other women to earn money from their websites and achieve the long-awaited financial freedom (www.bloga.ai - for Portuguese speakers).
 
